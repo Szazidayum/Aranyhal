@@ -5,7 +5,7 @@ public class Aranyhal {
     
     private static int KIVANSAGOSZAMA = 3;
     private int kor;
-//    private ArrayList<Kivansag> kivansagok;
+    private ArrayList<Kivansag> kivansagok;
     private String kifogta;
 
 //    public static void main(String[] args) {
